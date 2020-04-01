@@ -1,4 +1,5 @@
 # 친절한 실전 딥러닝 수업
+저자: [김찬란](https://github.com/seriousran)
 
 ## 구매 링크
 
