@@ -1,7 +1,7 @@
 # 친절한 실전 딥러닝 수업
 저자: [김찬란](https://github.com/seriousran)
 
-## 구매 링크
+## 링크
 
 - [yes24](http://www.yes24.com/Product/Goods/89649505?scode=032&OzSrank=1)
 - [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190014809&orderClick=LET&Kc=)
